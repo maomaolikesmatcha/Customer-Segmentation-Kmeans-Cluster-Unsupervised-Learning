@@ -1,6 +1,6 @@
 
 ### Topics
-This mini project is dedicated to following topics:
+This project used following topics:
 - Data Wrangling
 - Data Visualization
 - Data Preparation and Feature Engineering
